@@ -106,7 +106,9 @@ Here’s the visual representation of the proposed model:
 - **Inputs:** demand elasticity, logistics cost, store density, competitive intensity  
 - **Base GM:** category-specific; regional overlay ±1–3%  
 - **Dark Store Benefit:** unlocks incremental margins for retailers, ensuring stronger adoption  
-- **D2C Uplift:** avoided trade discounts + faster inventory turns  
+- **D2C Uplift:** avoided trade discounts + faster inventory turns
+- ![Region-wise Margin Architecture](Region-wise%20Margin%20Architecture.png)
+
 
 ### High-Level Philosophy: Value-Sharing  
 Efficiency gains are distributed across the value chain:  
