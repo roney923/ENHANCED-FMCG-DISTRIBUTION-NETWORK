@@ -68,6 +68,12 @@ Strategic business model for **HUL company-owned dark stores**, designed to:
 ➡️ **Impact:** Fewer nodes → lower lead time, shrinkage, and cost-to-serve  
 
 ---
+## Proposed Distribution Network
+
+Here’s the visual representation of the proposed model:
+
+![Proposed Distribution Network](White%20Beige%20Minimal%20Flowchart%20Diagram%20Graph.png)
+
 
 ## Dark Store Blueprint
 - **Size:** 1,500 sq ft; Ambient + Cold zones (2–8°C)  
@@ -95,11 +101,20 @@ Strategic business model for **HUL company-owned dark stores**, designed to:
 
 ---
 
-## Region-wise Margin Architecture
-- Inputs: demand elasticity, logistics cost, store density, competition  
-- Base GM by category; regional overlay ±1–3%  
-- D2C uplift via avoided trade discounts  
-- Goal: **+15–20% net margin improvement**  
+## 🔹 Region-wise Margin Architecture  
+
+- **Inputs:** demand elasticity, logistics cost, store density, competitive intensity  
+- **Base GM:** category-specific; regional overlay ±1–3%  
+- **Dark Store Benefit:** unlocks incremental margins for retailers, ensuring stronger adoption  
+- **D2C Uplift:** avoided trade discounts + faster inventory turns  
+
+### High-Level Philosophy: Value-Sharing  
+Efficiency gains are distributed across the value chain:  
+
+➡️ **Retailers** → higher profit share  
+➡️ **Distributors** → reduced inventory & logistics burden  
+➡️ **Brands** → sustainable +15–20% net margin improvement  
+
 
 ---
 
